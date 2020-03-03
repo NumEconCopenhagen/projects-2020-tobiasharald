@@ -1,5 +1,5 @@
 # Inaugural project
-# hep
+# hep hep
 
 The **results** of the project can be seen from running [inauguralproject.ipynb](inauguralproject.ipynb).
 
