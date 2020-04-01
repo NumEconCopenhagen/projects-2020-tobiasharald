@@ -9,7 +9,7 @@ def only_keep_municipalities(df):
 
     """ 
     
-    for val in ['Landsdel', 'Province', 'All Denmark']:
+    for val in ['Christiansø']:
         
         I = df.municipality.str.contains(val)
         df = df.loc[I == False] # keep everything else
