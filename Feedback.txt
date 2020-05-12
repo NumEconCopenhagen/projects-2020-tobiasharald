@@ -1,0 +1,29 @@
+Peer Feedback
+txs962 has given feedback to:
+
+Data project:
+-AAIJ 
+https://github.com/NumEconCopenhagen/projects-2020-aaij/issues/3	
+-Guldmandsaks	
+https://github.com/NumEconCopenhagen/projects-2020-guldmandsaks/issues/2
+
+Model project:
+-group 999
+https://github.com/NumEconCopenhagen/projects-2020-group-999/issues/9	
+-Boston Python Group 1
+https://github.com/NumEconCopenhagen/projects-2020-boston-python-group-1/issues/10
+
+nbk724 has given feedback to: 
+
+Data project:
+-TheFrenchies
+https://github.com/NumEconCopenhagen/TheFrenchies/issues/3
+
+-Guldmandsaks
+https://github.com/NumEconCopenhagen/projects-2020-guldmandsaks/issues/3	
+
+Model project: 
+-JLMT
+https://github.com/NumEconCopenhagen/projects-2020-jlmt/issues/9
+-Lærke&Jose
+https://github.com/NumEconCopenhagen/projects-2020-laerke-jose/issues/9
