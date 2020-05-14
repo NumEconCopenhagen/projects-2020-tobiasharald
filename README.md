@@ -1,4 +1,4 @@
-# TOBIASHARALD's Portfolio for Introduction to Programming and Numerical Analysis at Copenhagen University
+# TOBIASHARALD's Portfolio for Introduction to Programming and Numerical Analysis at University of Copenhagen
 
 Our portfolio contains our inaugral project, data project, model project and our solutions to the two questions given for the exam. 
 
