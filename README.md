@@ -20,6 +20,8 @@ This project is based on an old Microeconomics Exam regarding consumer theory. T
 
 ## Exam project
 
- Question 1: .....
+ Question 1: Linear regression - Estimating a model using OLS, a numerical solver, LAD. PLotting and comparing the results.
 
- Question 2: ..... 
+ Question 2: Durable purchases - Maximizing utility for a household living in two periods.
+
+ Gradient Descent - Implementing a algorithm on gradient descent and minimizing the function (rosenbrock). 
